@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="enum" name="typeface">
+        <enum name="ALLER_STD" value="0"/>
+        <enum name="ALLER_STD_BOLD" value="1"/>
+        <enum name="ALLER_STD_ITALIC" value="2"/>
+        <enum name="ALLER_STD_LIGHT" value="3"/>
+        <enum name="ALLER_STD_LIGHT_ITALIC" value="4"/>
+        <enum name="ALLER_STD_REG" value="5"/>
+        <enum name="ALLER_STD_DISPLAY" value="6"/>
+    </attr>
+    <color name="black">#000000</color>
+    <color name="blackShade">#282828</color>
+    <color name="camera_Background">#FFC4C4C5</color>
+    <color name="camera_CloseIcon">#FF000000</color>
+    <color name="camera_CounterText">#555555</color>
+    <color name="camera_feedbackBg">#00000000</color>
+    <color name="camera_feedbackText">#FF000000</color>
+    <color name="colorAccent">#D32D39</color>
+    <color name="colorPrimary">#D32D39</color>
+    <color name="grey">#858585</color>
+    <color name="red">#D32D39</color>
+    <color name="security_false">#db4437</color>
+    <color name="security_true">#a0d536</color>
+    <color name="separatorGrey">#E5E2E3</color>
+    <color name="tab_color">#E7344A</color>
+    <color name="trans_black">#80000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimaryDark">#AC0D18</color>
+
+    <color name="darkGray">#2f323a</color>
+    <color name="lightGray">#64676c</color>
+    <color name="backGroundColor">#edeff5</color>
+
+
+    // Accura liveness camera screen
+    <color name="livenessBackground">#FFC4C4C5</color>
+    <color name="livenessCloseIcon">#FF000000</color>
+    <color name="livenessfeedbackBg">#00000000</color>
+    <color name="livenessfeedbackText">#FF000000</color>
+    <color name="livenessRecordingText">#FF555555</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="_15dp">15dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_2dp">2dp</dimen>
+    <dimen name="_3sdp">3dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="barcode_reticle_corner_radius">8dp</dimen>
+    <dimen name="barcode_reticle_stroke_width">4dp</dimen>
+    <dimen name="btn_width">170dp</dimen>
+    <dimen name="corner_radius">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fifteen">15sp</dimen>
+    <dimen name="radius">50dp</dimen>
+    <dimen name="seventeen">17sp</dimen>
+    <dimen name="ten">10sp</dimen>
+    <string name="AuditInformation">Audit Information</string>
+    <string name="CardRevisionDate">Card Revision Date</string>
+    <string name="ComplianceType">Compliance Type</string>
+    <string name="CountryTerritoryOfIssuance">Country Territory Of Issuance</string>
+    <string name="FamilyNameTruncation">Family Name Truncation</string>
+    <string name="FederalCommercialVehicleCodes">Federal Commercial Vehicle Codes</string>
+    <string name="FirstNamesTruncation">First Names Truncation</string>
+    <string name="HazMatEndorsementExpiryDate">HazMat Endorsement Expiry Date</string>
+    <string name="JuriSpeciRestriCodeDescri">Jurisdiction Specific Restriction Code Description</string>
+    <string name="JuriSpeciVehiClassiDescri">Jurisdiction Specific Vehicle Classification Description</string>
+    <string name="JurisdictionSpecific">Jurisdiction Specific</string>
+    <string name="LimitedDurationDocumentIndicator">Limited Duration Document Indicator</string>
+    <string name="MedicalIndicatorCodes">Medical Indicator Codes</string>
+    <string name="MiddleNamesTruncation">Middle Names Truncation</string>
+    <string name="NonResidentIndicator">Non Resident Indicator</string>
+    <string name="PermitIdentifier">Permit Identifier</string>
+    <string name="PhysicalDescriptionWeight">Physical Description Weight Range</string>
+    <string name="PlaceOfBirth">Place Of Birth</string>
+    <string name="ResidenceCity">Residence City</string>
+    <string name="ResidenceJurisdictionCode">Residence Jurisdiction Code</string>
+    <string name="ResidencePostalCode">Residence Postal Code</string>
+    <string name="ResidenceStreetAddress1">Residence Street Address1</string>
+    <string name="ResidenceStreetAddress2">Residence Street Address2</string>
+    <string name="StandardEndorsementCode">Standard Endorsement Code</string>
+    <string name="StandardRestrictionCode">Standard Restriction Code</string>
+    <string name="VirginiaSpecificClass">Virginia Specific Class</string>
+    <string name="VirginiaSpecificEndorsements">Virginia Specific Endorsements</string>
+    <string name="VirginiaSpecificRestrictions">Virginia Specific Restrictions</string>
+    <string name="accura_face">ACCURA FACE MATCH</string>
+    <string name="accura_upload">Upload Face Image</string>
+    <string name="addressLine1">Mailing Street Address1</string>
+    <string name="addressLine2">Mailing Street Address2</string>
+    <string name="app_name">AccuraModule</string>
+    <string name="birth_date">Date of Birth</string>
+    <string name="camera_disabled">Camera has been disabled because of security policies.</string>
+    <string name="cannot_connect_camera">Can\'t connect to the camera.</string>
+    <string name="city">Mailing City</string>
+    <string name="court_restriction">Court Restriction Code</string>
+    <string name="dialog_ok">OK</string>
+    <string name="document_discriminator">Document Discriminator</string>
+    <string name="eye_color">Eye Color</string>
+    <string name="failed">Failed</string>
+    <string name="firstName">First Name</string>
+    <string name="full_name">Full Name</string>
+    <string name="hair_color">Hair Color</string>
+    <string name="height_in_cm">Height in CM</string>
+    <string name="height_in_ft">Height in FT_IN</string>
+    <string name="inventory_control_no">Inventory Control No</string>
+    <string name="issue_date">License or ID Document Issue Date</string>
+    <string name="issue_time">Issue Time</string>
+    <string name="jurisdiction_code">Mailing Jurisdiction Code</string>
+    <string name="lastName">Last Name</string>
+    <string name="license_classification">License Classification Code</string>
+    <string name="license_endorsement">License Endorsement Code</string>
+    <string name="license_expiry_date">License Expiration Date</string>
+    <string name="license_number">License or ID Number</string>
+    <string name="license_restriction">License Restriction Code</string>
+    <string name="middle_name">Middle name</string>
+    <string name="mrz">MRZ</string>
+    <string name="name_prefix">Name Prefix</string>
+    <string name="name_suffix">Name Suffix</string>
+    <string name="number_of_duplicate">Number of Duplicates</string>
+    <string name="ok">Ok</string>
+    <string name="organ_donor">Organ Donor</string>
+    <string name="organ_donor_indicator">Organ Donor Indicator</string>
+    <string name="permit_classification_code">Permit Classification Code</string>
+    <string name="permit_endorsement">Permit Endorsement Code</string>
+    <string name="permit_expire">Permit Expiration Date</string>
+    <string name="permit_issue">Permit Issue Date</string>
+    <string name="permit_restriction">Permit Restriction Code</string>
+    <string name="powered_by">Powered By</string>
+    <string name="prefix">Prefix</string>
+    <string name="race_ethnicity">Race Ethnicity</string>
+    <string name="scan_back">Now Scan Back Side of Document</string>
+    <string name="scan_front">Scan Front Side of Document</string>
+    <string name="sex">Sex</string>
+    <string name="social_security_number">Social Security Number</string>
+    <string name="standard_vehicle_class">Standard Vehicle Classification</string>
+    <string name="suffix">Suffix</string>
+    <string name="text_female">Female</string>
+    <string name="text_male">Male</string>
+    <string name="under_18">Under 18</string>
+    <string name="under_19">Under 19</string>
+    <string name="under_21">Under 21</string>
+    <string name="unique_customer_id">Unique Customer Identifier</string>
+    <string name="veteran_indicator">Veteran Indicator</string>
+    <string name="weight_in_kg">Weight in KG</string>
+    <string name="weight_in_lbs">Weight in LBS</string>
+    <string name="zipcode">Mailing Postal Code</string>
+    <style name="AppTheme.NoActionBar.FullScreenDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!--        <item name="android:windowAnimationStyle">@style/Animation.WindowSlideUpDown</item>-->
+        <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--        <item name="colorAccent">@color/colorAccent</item>-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <!--        <item name="android:windowAnimationStyle">@style/SlideAnimation</item>-->
+    </style>
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="CustomTextView">
+        <attr name="typeface"/>
+    </declare-styleable>
+</resources>

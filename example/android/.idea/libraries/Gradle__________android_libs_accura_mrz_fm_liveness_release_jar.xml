@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../android/libs/accura_mrz_fm_liveness-release.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../android/libs/accura_mrz_fm_liveness-release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
